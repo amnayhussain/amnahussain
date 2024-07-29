@@ -8,3 +8,5 @@ Piaic Batch = 65
 Piaic Roll No = PIAIC244710
 <br>
 City = Faisalabad
+<br>
+Education = MSCS
