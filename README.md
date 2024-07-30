@@ -12,3 +12,5 @@ City = Faisalabad
 Education = MSCS
 <br>
 Skills = HTML, CSS, Bootstrap, JavaScript, Python
+<br>
+University = FAST-NUCES
